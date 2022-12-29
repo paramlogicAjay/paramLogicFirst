@@ -1,3 +1,3 @@
 # paramLogicFirst
-This is paramlogic repository file
-this is my first commit in paramlogic
+This is paramlogic repository file.
+This is my first commit in paramlogic
